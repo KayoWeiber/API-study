@@ -1,0 +1,19 @@
+{
+  "name": "api-study",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "repositório criado com o intuito de estudo sobre API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.21.1"
+  }
+}
